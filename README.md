@@ -1,5 +1,7 @@
 # lab_calculator_html_css
 
+<BR>
+
 ## 📝 Table of Contents
 
 - [What does this project](#aboutit)
